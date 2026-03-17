@@ -159,11 +159,7 @@
                 Plataforma Enterprise para Gestão da Experiência do Paciente. <br class="hidden md:block"> 
                 Governança.
             </p>
-            <div class="mt-10 flex flex-col md:flex-row gap-4 justify-center">
-                <div class="px-6 py-3 border border-blue-400/30 rounded-full text-blue-200 text-xs uppercase tracking-widest">WMTY Integration</div>
-                <div class="px-6 py-3 border border-blue-400/30 rounded-full text-blue-200 text-xs uppercase tracking-widest">AI Powered Analytics</div>
-                <div class="px-6 py-3 border border-blue-400/30 rounded-full text-blue-200 text-xs uppercase tracking-widest">Multi-Tenant Architecture</div>
-            </div>
+           
         </div>
     </header>
 
